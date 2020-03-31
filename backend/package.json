@@ -1,8 +1,8 @@
 {
-  "name": "clase46",
+  "name": "homebanking",
   "version": "1.0.0",
   "description": "",
-  "main": "homebanking.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

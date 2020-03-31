@@ -1,8 +1,9 @@
 [
     {
-        "nombre": "Lara",
-        "apellido": "Croft",
-        "usuario": "Tomb Rider",
-        "password": 1234
+        "nombre": "diego",
+        "apellido": "maradona",
+        "usuario": "dieguito",
+        "password": 1234,
+        "saldo": 0
     }
 ]
